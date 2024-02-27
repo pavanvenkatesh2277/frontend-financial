@@ -30,6 +30,6 @@ module.exports = {
     "rules": {
         "no-unused-vars":"warn",
         "react/prop-types":"off",
-        "react/react-in-jsx-scope": "off"      
+        "react/react-in-jsx-scope":"off"      
     }
 }
